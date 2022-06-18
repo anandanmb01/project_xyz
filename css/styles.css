@@ -22,3 +22,12 @@ body{
   padding-right: 3rem;
   padding-top: 2em;
 }
+#intro{
+  margin-bottom: auto;
+}
+#footer-contact-us{
+  position:absolute;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+}
